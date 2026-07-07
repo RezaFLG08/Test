@@ -1,3 +1,6 @@
 import pandas as p
 
-pandasread
+pd.read_csv("filename").csv
+
+
+change number 3
