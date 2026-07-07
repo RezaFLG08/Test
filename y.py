@@ -7,4 +7,4 @@ change number 3
 
 changes after rename
 
-changes in beta branch
+changes in gama branch
